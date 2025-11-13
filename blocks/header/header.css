@@ -140,8 +140,10 @@ header .nav-brand {
   grid-area: brand;
   flex-basis: 128px;
   font-size: var(--heading-font-size-s);
-  font-weight: 700;
+  font-weight: 900;
   line-height: 1;
+  color: red;
+  text-transform: uppercase;
 }
 
 header nav .nav-brand img {
